@@ -3,7 +3,9 @@
   # My Awesome README
   
   ## Description: 
-  This software creates a README using prompts.  It uses a template, into which you can put your answers.
+  This software creates a README using prompts.  It uses a template, into which you can put your answers.  I wrote the previous sentences while recording, and I only get 5 minutes, so that's all I could write. The following is more detail. 
+  
+  This is a back-end software program that uses the "inquirer" technology to get responses to questions posed in a series of prompts.  There is no html.  The bash command prompt will ask the user a series of questions relating to the creation of the readme.  The answers are then plugged into a template.  
   
   ## Table of Contents
   
