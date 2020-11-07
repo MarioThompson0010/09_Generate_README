@@ -3,8 +3,8 @@
 ## Screenshots and video:
 
 [README video](https://drive.google.com/drive/u/0/folders/13egiMmqGDuJ2yzJInyQklgTVYdZ5s4Sz)
-![Inputting](https://github.com/MarioThompson0010/06_Weather_Teller/blob/main/Assets/ScreenshotWeather2.PNG)
-![Output](https://github.com/MarioThompson0010/06_Weather_Teller/blob/main/Assets/ScreenshotWeather2.PNG)
+![Inputting](https://github.com/MarioThompson0010/09_Generate_README/blob/master/Screenshots/Inputting.PNG)
+![Output](https://github.com/MarioThompson0010/09_Generate_README/blob/master/Screenshots/Output.PNG)
 
 List of technologies: npm, Javascript, Inquirer, NodeJS
 
