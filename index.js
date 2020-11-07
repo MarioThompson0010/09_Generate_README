@@ -66,7 +66,7 @@ function init() {
         questions
     ).then(
         (response) => {
-            const filename = `README_generated_output.md`;
+            const filename = `./GeneratedOutput/README_generated_output.md`;
             writeToFile(filename, response);
         }
     );

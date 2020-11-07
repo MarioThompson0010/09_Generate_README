@@ -1,9 +1,9 @@
 
   ![license](https://img.shields.io/badge/License-MIT-blue)
-  # Generated README
+  # README generator
   
   ## Description: 
-  This generated a README file
+  This generator spits out a README file. Just answer the questions, then check out the README file.
   
   ## Table of Contents
   
@@ -15,10 +15,10 @@
   * [Questions](https://github.com/MarioThompson0010/09_Generate_README#questions)
   
   ## Installation
-  You don't have to. Just watch the video
+  just run it
 
   ## Usage
-  Every time you want a README, type node index.js in the terminal
+  type node index.js, then answer the questions
 
   ## License
   MIT : MIT License
@@ -32,10 +32,10 @@
   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
   ## Contributing
-  Don't contribute
+  don't contribute.
   
   ## Tests
-  Run it, then see if it worked
+  Run it. See if you got expected output
   
   ## Questions
   Username: mariothompson0010
