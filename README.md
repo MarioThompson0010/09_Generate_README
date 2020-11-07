@@ -12,12 +12,12 @@
   
   ## Table of Contents
   
-  * [Installation](##Installation)
-  * [Usage](##Usage)
-  * [License](##License)
-  * [Contributing](##Contributing)
-  * [Tests](##Tests)
-  * [Questions](##Questions)
+  * [Installation](https://github.com/MarioThompson0010/09_Generate_README#installation)
+  * [Usage](https://github.com/MarioThompson0010/09_Generate_README#usage)
+  * [License](https://github.com/MarioThompson0010/09_Generate_README#license)
+  * [Contributing](https://github.com/MarioThompson0010/09_Generate_README#contributing)
+  * [Tests](https://github.com/MarioThompson0010/09_Generate_README#tests)
+  * [Questions](https://github.com/MarioThompson0010/09_Generate_README#questions)
   
   ## Installation
   nothing
@@ -44,7 +44,7 @@
   
   ## Questions
   Username: jjj
-  
+
   Email: kkkkk
 
 
