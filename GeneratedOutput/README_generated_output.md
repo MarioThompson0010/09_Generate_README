@@ -3,7 +3,7 @@
   # README generator
   
   ## Description: 
-  This generator spits out a README file. Just answer the questions, then check out the README file.
+  This generates a README file.  It includes a description, a title, contact information, and several other types of information relating to a README file.
   
   ## Table of Contents
   
@@ -15,15 +15,15 @@
   * [Questions](https://github.com/MarioThompson0010/09_Generate_README#questions)
   
   ## Installation
-  just run it
+  Go to my GitHub homepage, find assignment 09, then download the code.  Open index.js in Visual Studio Code. Open your terminal.  Type "node index.js" in the terminal, and answer the questions. You'll see your file in the GeneratedOutput folder.
 
   ## Usage
-  type node index.js, then answer the questions
+  Whenever you need a README
 
   ## License
   MIT : MIT License
 
-  Copyright (c) 2020 Mario Thompson
+  Copyright (c) 2020
   
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
   
@@ -32,15 +32,16 @@
   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
   ## Contributing
-  don't contribute.
+  Don't contribute to this product except by license.
   
   ## Tests
-  Run it. See if you got expected output
+  Run it, then see if you got a good README
   
   ## Questions
-  Username: mariothompson0010
+  Username: MarioThompson0010
 
-  Email: mariothompson0010@gmail.com
+  Email: MarioThompson0010@gmail.com
+  If you have further questions, call me anytime at 801-822-4485.
 
 
 
