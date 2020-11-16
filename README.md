@@ -1,4 +1,4 @@
-# Weather Reader
+# README Generator
 
 ## Screenshots and video:
 
