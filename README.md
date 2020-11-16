@@ -2,7 +2,7 @@
 
 ## Screenshots and video:
 
-[README video](https://drive.google.com/drive/u/0/folders/13egiMmqGDuJ2yzJInyQklgTVYdZ5s4Sz)
+[README video](https://drive.google.com/drive/folders/13egiMmqGDuJ2yzJInyQklgTVYdZ5s4Sz?usp=sharing)
 ![Inputting](https://github.com/MarioThompson0010/09_Generate_README/blob/master/Screenshots/Inputting.PNG)
 ![Output](https://github.com/MarioThompson0010/09_Generate_README/blob/master/Screenshots/Output.PNG)
 
